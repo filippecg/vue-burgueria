@@ -10,7 +10,7 @@ npm install
 npm run serve
 ```
 
-### Run backend (json-server) | /db/db.json 
+### Run backend (json-server) /db/db.json 
 ```
 npm run backend
 ```
